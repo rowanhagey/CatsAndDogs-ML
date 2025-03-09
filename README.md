@@ -12,6 +12,9 @@ This project is a Convolutional Neural Network (CNN)-based machine learning mode
 After 25 epochs of training we achieved a 89.88% accuracy on our test subset of the image data.
 <img width="923" alt="Screenshot 2025-03-09 at 3 58 59 AM" src="https://github.com/user-attachments/assets/e1cd72c4-9ae0-471c-af97-0a948614a9bf" />
 
+## Dataset
+Link to training and testing images
+https://github.com/laxmimerit/dog-cat-full-dataset
 
 ## Examples
 ### A photo of my dog
